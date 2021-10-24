@@ -1,0 +1,13 @@
+Both look and my-look ON unix systems take a string as input and return any lines in a file that contain that string as a prefix. 
+
+Example:
+prompt> ./my-look -f /usr/share/dict/words gn
+
+GNU
+GNU's
+Gnostic
+Gnostic's
+Gnosticism
+Gnosticism's
+
+my-look reads the file /usr/share/dict/words and prints out all the lines that start with the letters "gn".
