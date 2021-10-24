@@ -1,4 +1,4 @@
-Both look and my-look ON unix systems take a string as input and return any lines in a file that contain that string as a prefix. 
+Both look and my-look on unix systems take a string as input and return any lines in a file that contain that string as a prefix. 
 
 Example:
 prompt> ./my-look -f /usr/share/dict/words gn
